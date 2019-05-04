@@ -118,7 +118,23 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 30 Apr 2019</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">4 พฤษภา 62</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.1-2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added more icon\t\n\u2022 Added alt icon\t\n\u2022 Resize File\t\n\u2022 Edit some icon",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">30 เมษา 62</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
