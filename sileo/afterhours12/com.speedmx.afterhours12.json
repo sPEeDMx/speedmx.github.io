@@ -108,8 +108,7 @@
              {
                 "spacing":12,
                 "class":"DepictionSpacerView"
-             }
-          ],
+             },
 		  {
 			"tabname": "Changelog",
 			"views": [
