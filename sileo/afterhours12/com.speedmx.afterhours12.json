@@ -4,7 +4,7 @@
 	"tintColor": "#ffae8e",
 	"tabs": [
        {
-          "tabname":"รายละเอียด",
+          "tabname":"Details",
           "views":[
              {
                 "title":"AfterHours Mod12",
@@ -111,7 +111,7 @@
              }
           ],
 		  {
-			"tabname": "การเปลี่ยนแปลง",
+			"tabname": "Changelog",
 			"views": [
 				{
 					"title": "1.2",
