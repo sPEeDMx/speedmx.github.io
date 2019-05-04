@@ -111,6 +111,28 @@
              }
           ],
 			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "การเปลี่ยนแปลง",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added more icon",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 30 Apr 2019</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
 		}
 	],
 	"class": "DepictionTabView"

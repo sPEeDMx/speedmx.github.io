@@ -4,7 +4,7 @@
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
-			"tabname": "Details",
+			"tabname": "รายละเอียด",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
@@ -54,7 +54,7 @@
 			"class": "DepictionStackView"
 		},
 		{
-			"tabname": "Changelog",
+			"tabname": "การเปลี่ยนแปลง",
 			"views": [
 				{
 					"title": "1.0",
