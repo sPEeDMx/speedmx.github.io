@@ -3,23 +3,23 @@
     "tintColor":"#000000",
     "views":[
        {
-          "markdown":"มีปัญหาเกี่ยวกับแพ็คเกจ ติดต่อเข้ามาครับ",
+          "title":"มีปัญหาเกี่ยวกับแพ็คเกจ ติดต่อเข้ามาได้ครับ",
 		  "alignment":1,
           "useSpacing":true,
           "useRawFormat":true,
-          "class":"DepictionMarkdownView"
+          "class":"DepictionSubheaderView"
        },
        {
           "class":"DepictionSeparatorView"
        },
        {
-          "title":"ส่งอีเมล์ \u2709 ",
+          "title":"ส่งอีเมล์  \u1F4E7 ",
           "action":"mailto:aek.speedmx@gmail.com",
           "openExternal":true,
           "class":"DepictionTableButtonView"
        },
        {
-          "title":"เข้าร่วมกลุ่ม \u1d5f3 ",
+          "title":"เข้าร่วมกลุ่ม 	\u1D5BF ",
           "action":"https://www.facebook.com/groups/sometrickcydia/",
           "openExternal":true,
           "class":"DepictionTableButtonView"
