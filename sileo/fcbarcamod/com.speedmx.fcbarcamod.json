@@ -1,56 +1,86 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.fcbarcamod/ss.png",
-	"tintColor": "#ffae8e",
+	"tintColor": "#1f2e60",
 	"tabs": [
-		{
-			"tabname": "รายละเอียด",
-			"views": [
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "# FCbarca Mod\nFC Barcelona theme for Fan iOS 11/12"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "Latest Version",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "Version",
-					"text": "1.0",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Released",
-					"text": "30 Apr 2019",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Price",
-					"text": "Free",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Developer",
-					"text": "aEk",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Website",
-					"action": "http://speedmx.github.io",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
+       {
+          "tabname":"รายละเอียด",
+          "views":[
+             {
+                "title":"FC Barcelona theme for Fan iOS 11/12",
+                "useBoldText":true,
+                "useBottomMargin":false,
+				"alignment":1,
+                "class":"DepictionSubheaderView"
+             },
+             {
+                "itemCornerRadius":6,
+                "itemSize":"{160, 346.4533333333333}",
+                "screenshots":[
+                   {
+                      "accessibilityText":"Screenshot",
+                      "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.fcbarcamod/FCB.png",
+                      "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.fcbarcamod/FCB.png"
+                   }
+                ],
+                "class":"DepictionScreenshotsView"
+             },
+             {
+                "markdown":"Compatibility with <B>SnowBroad/Anemone</B><br>Thank for Original icon by @moondr1",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+             },
+             {
+                "class":"DepictionSeparatorView"
+             },
+             {
+                "title":"รายละเอียดแพ็คเกจ",
+                "class":"DepictionHeaderView"
+             },
+             {
+                "title":"เวอร์ชั่น",
+                "text":"1.0",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "title":"วันที่อัพเดท",
+                "text":"4 พฤษภา 62",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "title":"ผู้พัฒนา",
+                "text":"aEk",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "class":"DepictionSeparatorView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             },
+             {
+                "title":"ติดต่อผู้พัฒนา",
+                "action":"depiction-https://speedmx.github.io/sileo/support.json",
+                "class":"DepictionTableButtonView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             },
+             {
+                "URL":"https://speedmx.github.io/images/profile.png",
+                "width":50,
+                "height":50,
+                "alignment":1,
+                "cornerRadius":20,
+                "class":"DepictionImageView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             }
+          ],
 			"class": "DepictionStackView"
 		},
 		{
@@ -63,12 +93,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added more icon",
+					"markdown": "\t\n\u2022 Added more icon (60+)\t\n\u2022 Added badge",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 30 Apr 2019</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">4 พฤษภา 62</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
