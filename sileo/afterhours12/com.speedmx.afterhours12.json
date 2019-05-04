@@ -46,7 +46,7 @@
                 "class":"DepictionScreenshotsView"
              },
              {
-                "markdown":"AfterHours Mod12 came back to life with an almighty bang and boy I am so glad this theme has been resurrected from the “Dark Side” as at the moment the trend for themes is flat with pastel colours but AfterHours gives us all something different to rock on our iPhones. The thing I like about AfterHours Mod12 is that it’s dark but it still gives you very light splashes of colour without losing the dark appeal and not to make it too dark to the point where everything looks the same.<br><br>Compatibility with <bold>SnowBroad/Anemone</bold><br>Thank for Original icon by @Rob Grohman",
+                "markdown":"AfterHours Mod12 came back to life with an almighty bang and boy I am so glad this theme has been resurrected from the “Dark Side” as at the moment the trend for themes is flat with pastel colours but AfterHours gives us all something different to rock on our iPhones. The thing I like about AfterHours Mod12 is that it’s dark but it still gives you very light splashes of colour without losing the dark appeal and not to make it too dark to the point where everything looks the same.<br><br>Compatibility with <B>SnowBroad/Anemone</B><br>Thank for Original icon by @Rob Grohman",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
              },
@@ -90,8 +90,8 @@
              },
              {
                 "URL":"https://speedmx.github.io/images/profile.png",
-                "width":80,
-                "height":80,
+                "width":100,
+                "height":100,
                 "alignment":1,
                 "cornerRadius":100,
                 "class":"DepictionImageView"
