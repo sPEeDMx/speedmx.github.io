@@ -27,7 +27,15 @@
           "action":"https://www.facebook.com/groups/sometrickcydia/",
           "openExternal":true,
           "class":"DepictionTableButtonView"
-       }
+       },
+             {
+                "URL":"https://speedmx.github.io/images/profile.png",
+                "width":50,
+                "height":50,
+                "alignment":1,
+                "cornerRadius":20,
+                "class":"DepictionImageView"
+             }
     ],
     "class":"DepictionStackView"
  }
