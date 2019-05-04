@@ -13,19 +13,19 @@
           "class":"DepictionSeparatorView"
        },
        {
-          "title":"ส่งอีเมล์",
+          "title":"ส่งอีเมล์ \u2709 ",
           "action":"mailto:aek.speedmx@gmail.com",
           "openExternal":true,
           "class":"DepictionTableButtonView"
        },
        {
-          "title":"เข้าร่วมกลุ่ม FB #SomeTrickCydia",
+          "title":"เข้าร่วมกลุ่ม \u1D5F3 #SomeTrickCydia ",
           "action":"https://www.facebook.com/groups/sometrickcydia/",
           "openExternal":true,
           "class":"DepictionTableButtonView"
        },
        {
-          "title":"สนับสนุน &#x2615; ",
+          "title":"สนับสนุน \u2615 ",
           "action":"https://paypal.me/speedmx",
           "openExternal":true,
           "class":"DepictionTableButtonView"
