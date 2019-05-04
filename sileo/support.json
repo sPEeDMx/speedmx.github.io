@@ -13,7 +13,7 @@
        },
        {
           "title":"ส่งอีเมล์",
-		  "<img class=\"icon\" src=\"../depictions/icons/email.png\">"
+		  "URL":"https://speedmx.github.io/images/profile.png",
           "action":"mailto:aek.speedmx@gmail.com",
           "openExternal":true,
           "class":"DepictionTableButtonView"
