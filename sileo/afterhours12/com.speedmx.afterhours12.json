@@ -18,28 +18,28 @@
                 "screenshots":[
                    {
                       "accessibilityText":"Screenshot",
-                      "url":"https://speedmx.github.io/sileo/afterhours12/ah1.png",
-                      "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah1.png"
+                      "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah1.png",
+                      "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah1.png"
                    },
                    {
                      "accessibilityText":"Screenshot",
-                     "url":"https://speedmx.github.io/sileo/afterhours12/ah2.png",
-                     "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah2.png"
+                     "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah2.png",
+                     "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah2.png"
                    },
                    {
                      "accessibilityText":"Screenshot",
-                     "url":"https://speedmx.github.io/sileo/afterhours12/ah3.png",
-                     "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah3.png"
+                     "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah3.png",
+                     "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah3.png"
                    },
 				   {
                      "accessibilityText":"Screenshot",
-                     "url":"https://speedmx.github.io/sileo/afterhours12/ah4.png",
-                     "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah4.png"
+                     "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah4.png",
+                     "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah4.png"
                    },
 				   {
                      "accessibilityText":"Screenshot",
-                     "url":"https://speedmx.github.io/sileo/afterhours12/ah5.png",
-                     "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah5.png"
+                     "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah5.png",
+                     "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.afterhours12/ah5.png"
                    }
                 ],
                 "class":"DepictionScreenshotsView"
