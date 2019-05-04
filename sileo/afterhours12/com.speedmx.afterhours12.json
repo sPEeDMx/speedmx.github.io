@@ -1,0 +1,117 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/images/banner.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+       {
+          "tabname":"Details",
+          "views":[
+             {
+                "title":"AfterHours Mod12",
+                "useBoldText":true,
+                "useBottomMargin":false,
+                "class":"DepictionSubheaderView"
+             },
+             {
+                "itemCornerRadius":6,
+                "itemSize":"{160, 346.4533333333333}",
+                "screenshots":[
+                   {
+                      "accessibilityText":"Screenshot",
+                      "url":"https://speedmx.github.io/sileo/afterhours12/ah1.png",
+                      "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah1.png"
+                   },
+                   {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://speedmx.github.io/sileo/afterhours12/ah2.png",
+                     "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah2.png"
+                   },
+                   {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://speedmx.github.io/sileo/afterhours12/ah3.png",
+                     "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah3.png"
+                   },
+				   {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://speedmx.github.io/sileo/afterhours12/ah4.png",
+                     "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah4.png"
+                   },
+				   {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://speedmx.github.io/sileo/afterhours12/ah5.png",
+                     "fullSizeURL":"https://speedmx.github.io/sileo/afterhours12/ah5.png"
+                   }
+                ],
+                "class":"DepictionScreenshotsView"
+             },
+             {
+                "markdown":"I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+             },
+             {
+                "class":"DepictionSeparatorView"
+             },
+             {
+                "title":"Latest Version",
+                "class":"DepictionHeaderView"
+             },
+             {
+                "title":"Version",
+                "text":"1.2",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "title":"Released",
+                "text":"2019-5-3",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "title":"Price",
+                "text":"Free",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "class":"DepictionSeparatorView"
+             },
+             {
+                "title":"Developer Website",
+                "action":"https://speedmx.github.io",
+                "class":"DepictionTableButtonView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             },
+             {
+                "title":"Developer",
+                "text":"aEk",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "title":"Contact Support",
+                "action":"depiction-https://speedmx.github.io/sileo/support.json",
+                "class":"DepictionTableButtonView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             },
+             {
+                "URL":"https://speedmx.github.io/images/profile.png",
+                "width":50,
+                "height":50,
+                "alignment":1,
+                "cornerRadius":100,
+                "class":"DepictionImageView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             }
+          ],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

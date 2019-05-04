@@ -1,0 +1,220 @@
+.disable-hover {
+    pointer-events: none;
+}
+
+.link-item {
+    list-style-type: none;
+    padding: 17px 15px;
+    display: block;
+    color: #337ab7 !important;
+	border-radius: 10 !important;
+    text-align: auto;
+}
+
+.link-item:hover {
+    border: 1px solid #ddd;
+    background-color: #f5f5f5;
+	border-radius: 10 !important;
+}
+
+html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
+    background-color: #fff;
+    border-radius: 10 !important;
+}
+
+html.can-touch .link-item:active{ /* disable hover effect when input is touch */
+    background-color: #f5f5f5;
+    border-radius: 10 !important;
+}
+
+.fa {
+    font-size: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10 !important;
+}
+
+.container {
+    padding-top: 15px !important;
+    margin-bottom: 15px !important;
+    display: block !important;
+    margin: 0 !important;
+    border: 0 !important;
+    margin-top: 9px !important;
+    margin-bottom: 15px !important;
+    width: 100% !important;
+    padding-right: 13px;
+    padding-left: 13px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white !important;
+    text-align: auto !important;
+    border-radius: 10 !important;
+    overflow: hidden;
+    display: block !important;
+    padding: 15px 20px !important;
+    box-shadow: 2px 2px 40px -12px #999 !important;
+    font-size: 15px !important;
+    color: #666 !important;
+}
+
+.alert {
+	margin-bottom: 0px !important;
+}
+
+.jumbotron {
+	margin-bottom: 0px !important;
+	padding-bottom: 10px !important;
+	padding-top: 10px !important;
+	margin-top: 0px !important;
+	border-radius: 10 !important;
+}
+
+h5 {
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-weight: 800 !important;
+	color: #111;
+	font-size: 100%;
+        vertical-align: baseline;
+	font-size: 20px;
+	border-radius: 10 !important;
+}
+
+.packagetitle {
+	font-size: 35px;
+        font-weight: 800;
+        color: black;
+	max-width: 100%;
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	border-radius: 10 !important;
+}
+
+body {
+	background:#efeff4!important;margin:0;padding:0;border-radius:10;outline:0;box-sizing:border-box
+}
+
+
+h2 {
+    color: #6d6d72;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-radius: 10 !important;
+}
+
+body {
+    background-color: #efeff4;
+    font: 13px "Fira Sans", sans-serif;
+    font-weight:400;
+    margin-left:12px;
+    border-radius: 10 !important;
+}
+
+a:link,
+a:visited,
+a:hover {
+    text-decoration: none;
+}
+
+.badge-label {
+    border-radius: 10em;
+}
+
+.panel,
+.list-group-item,
+.alert {
+    border-radius: 10 !important;
+}
+
+.row{
+    width:97%;
+    border-radius: 10 !important;
+    margin-left: 0.5px;
+    margin-right: 15px;
+}
+
+.list-group-item:last-child 
+{
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: -1px;
+    background-image: url(data:image/png);
+    background-position: 96.5% center;
+    background-repeat: no-repeat;
+    background-size: 10px 13px;
+    max-height: 43px;
+	border-radius: 10 !important;
+}
+
+.subshots {
+    text-align: center;
+    max-width: 96.5%;
+	height: auto;
+	border-radius: 10 !important;
+}
+
+.subshots:nth-child(1) {
+    margin-bottom: 6px;
+	height: auto;
+	border-radius: 10 !important;
+}
+
+.screenshots img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    width: 100%;
+    margin-left: 16px;
+	border-radius: 10 !important;
+}
+
+.package-buttons {
+    margin-top: 10px;
+	border-radius: 10 !important;
+}
+
+.repo-buttons {
+    margin-top: 20px;
+	border-radius: 10 !important;
+}
+
+.package-error {
+    display: none;
+}
+
+.screenshots {
+    display: none;
+}
+
+.fullchangelog {
+    display: none;
+}
+
+.latest-version {
+    vertical-align: right;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    margin-top: -4px;
+}
+
+.panel-default>.fullchangelog-header,
+.panel-default>.screenshots-header 
+{
+    font-size: 13px;
+    max-height: 43px;
+    background-image: url(data:image/png);
+    background-position: 96.5% center;
+    background-repeat: no-repeat;
+    background-size: 10px 13px;
+}
+
+.panel-default>.fullchangelog-header.toggle,
+.panel-default>.screenshots-header.toggle 
+{
+    background-image: url(data:image/png);
+    background-size: 13px 10px;
+}

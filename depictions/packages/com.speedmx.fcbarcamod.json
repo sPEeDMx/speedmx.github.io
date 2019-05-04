@@ -1,0 +1,22 @@
+{
+	"name": "FCbarca Mod",
+	"package": "com.speedmx.fcbarcamod",
+	"author": "moondr1",
+	"version": "1.0",
+	"dependency": "mobilesubstrate",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "unsupported",
+	"description": "<div>FC Barcelona theme for Fan iOS 11/12<br><br>Thank for Original icon by @moondr1</div>",
+  	"changelog": 
+	{
+	    "1.0": [
+	      "- เพิ่ม icon 60+<br>- เพิ่ม badge"
+	    ]
+  	},
+	"screenshots": 
+	{
+		"ss.png": ""
+	},
+	"links": {}
+}

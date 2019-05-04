@@ -1,0 +1,32 @@
+{
+	"name": "AfterHours Mod12",
+	"package": "com.speedmx.afterhours12",
+	"author": "Rob Grohman",
+	"version": "1.2",
+	"dependency": "",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "unsupported",
+	"description": "<div>I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12<br><br>Compatibility with <b>SnowBroad/Anemone</b><br><br>Thank for Original icon by @Rob Grohman</div>",
+  	"changelog": 
+	{
+	    "1.0": [
+	      "- Initial release<br>-  Zeppelin, Dock, Folder UI include"
+	    ],
+	    "1.1-2": [
+	      "- Added more icon<br>- Added alt icon<br>- Resize File<br>- Edit some icon"
+	    ],
+	    "1.2": [
+	      "- Added more icon<br>- Added 4 IconOmatic/AE"
+	    ]
+  	},
+	"screenshots": 
+	{
+		"ah1.png": "",
+		"ah2.png": "",
+		"ah3.png": "",
+		"ah4.png": "",
+		"ah5.png": ""
+	},
+	"links": {}
+}
