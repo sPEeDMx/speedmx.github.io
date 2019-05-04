@@ -13,7 +13,7 @@
        },
        {
           "title":"ส่งอีเมล์",
-		  "<img class=\"icon\" src=\"icons/email.png\">"
+		  "<img class=\"icon\" src=\"../depictions/icons/email.png\">"
           "action":"mailto:aek.speedmx@gmail.com",
           "openExternal":true,
           "class":"DepictionTableButtonView"
