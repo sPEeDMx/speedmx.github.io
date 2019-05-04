@@ -1,10 +1,10 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/images/banner.png",
+	"headerImage": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/images/AH.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
        {
-          "tabname":"Details",
+          "tabname":"รายละเอียด",
           "views":[
              {
                 "title":"AfterHours Mod12",
@@ -110,6 +110,26 @@
                 "class":"DepictionSpacerView"
              }
           ],
+		  {
+			"tabname": "การเปลี่ยนแปลง",
+			"views": [
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added more icon \n\u2022 Added 4 IconOmatic/AE",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 30 Apr 2019</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
 			"class": "DepictionStackView"
 		}
 	],

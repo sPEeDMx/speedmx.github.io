@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/images/banner.png",
+        "url": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/images/AH.png",
         "title": "AfterHours Mod12",
         "package": "com.speedmx.afterhours12",
         "hideShadow": false
