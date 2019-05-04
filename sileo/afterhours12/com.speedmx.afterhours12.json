@@ -93,7 +93,7 @@
                 "width":50,
                 "height":50,
                 "alignment":1,
-                "cornerRadius":50,
+                "cornerRadius":15,
                 "class":"DepictionImageView"
              },
              {
