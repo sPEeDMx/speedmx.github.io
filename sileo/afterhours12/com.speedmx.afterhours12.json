@@ -92,8 +92,8 @@
                 "URL":"https://speedmx.github.io/images/profile.png",
                 "width":100,
                 "height":100,
-                "alignment":1,
-                "cornerRadius":100,
+                "alignment":20,
+                "cornerRadius":0,
                 "class":"DepictionImageView"
              },
              {
