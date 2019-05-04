@@ -10,6 +10,7 @@
                 "title":"I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12",
                 "useBoldText":true,
                 "useBottomMargin":false,
+				"alignment":1,
                 "class":"DepictionSubheaderView"
              },
              {
@@ -89,8 +90,8 @@
              },
              {
                 "URL":"https://speedmx.github.io/images/profile.png",
-                "width":100,
-                "height":100,
+                "width":70,
+                "height":70,
                 "alignment":1,
                 "cornerRadius":50,
                 "class":"DepictionImageView"
@@ -112,7 +113,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added more icon <br>\t\n\u2022 Added 4 IconOmatic/AE",
+					"markdown": "\t\n\u2022 Added more icon\t\n\u2022 Added 4 IconOmatic/AE",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
