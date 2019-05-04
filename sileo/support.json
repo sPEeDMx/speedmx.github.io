@@ -1,32 +1,30 @@
 {
     "title":"ข้อมูลการติดต่อ",
-    "tintColor":"#000000",
     "views":[
        {
-          "title":"มีปัญหาเกี่ยวกับแพ็คเกจ ติดต่อเข้ามาได้ครับ",
-		  "alignment":1,
+          "markdown":"มีปัญหาเกี่ยวกับแพ็คเกจ ติดต่อเข้ามาได้ครับ",
           "useSpacing":true,
           "useRawFormat":true,
-          "class":"DepictionSubheaderView"
+          "class":"DepictionMarkdownView"
        },
        {
           "class":"DepictionSeparatorView"
        },
        {
-          "title":"ส่งอีเมล์  \u1F4E7 ",
+          "title":"ส่งอีเมล์ \u2709 ",
           "action":"mailto:aek.speedmx@gmail.com",
-          "openExternal":true,
-          "class":"DepictionTableButtonView"
-       },
-       {
-          "title":"เข้าร่วมกลุ่ม 	\u1D5BF ",
-          "action":"https://www.facebook.com/groups/sometrickcydia/",
           "openExternal":true,
           "class":"DepictionTableButtonView"
        },
        {
           "title":"สนับสนุน \u2615 ",
           "action":"https://paypal.me/speedmx",
+          "openExternal":true,
+          "class":"DepictionTableButtonView"
+       },
+       {
+          "title":"เข้าร่วมกลุ่ม FB #SomeTrickCydia ",
+          "action":"https://www.facebook.com/groups/sometrickcydia/",
           "openExternal":true,
           "class":"DepictionTableButtonView"
        }
