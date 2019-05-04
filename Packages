@@ -14,7 +14,7 @@ SHA256: 34b8a39dd4a42229fbbc0b389441c0165955476fbe42bf9dcae3e48e1c736a81
 Section: Themes
 Description: FC Barcelona theme for Fan iOS 11/12
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.fcbarcamod
-SileoDepiction: https://speedmx.github.io/sileodepictions/com.speedmx.fcbarcamod/depiction.json
+SileoDepiction: https://speedmx.github.io/sileo/fcbarcamod/com.speedmx.fcbarcamod.json
 Homepage: http://speedmx.github.io
 
 Package: com.speedmx.afterhours12
