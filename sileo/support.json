@@ -1,9 +1,9 @@
 {
-    "title":"Support",
+    "title":"ข้อมูลการติดต่อ",
     "tintColor":"#000000",
     "views":[
        {
-          "markdown":"If you have problems, please contact me.",
+          "markdown":"มีปัญหาเกี่ยวกับแพ็คเกจ ติดต่อเข้ามาครับ",
           "useSpacing":true,
           "useRawFormat":true,
           "class":"DepictionMarkdownView"
@@ -12,11 +12,8 @@
           "class":"DepictionSeparatorView"
        },
        {
-          "title":"Contact",
-          "class":"DepictionHeaderView"
-       },
-       {
-          "title":"Send an Email",
+          "title":"ส่งอีเมล์",
+		  "<img class=\"icon\" src=\"icons/email.png\">"
           "action":"mailto:aek.speedmx@gmail.com",
           "openExternal":true,
           "class":"DepictionTableButtonView"
