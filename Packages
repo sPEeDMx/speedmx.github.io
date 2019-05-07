@@ -11,6 +11,7 @@ SHA1: 4321be6e0d65f53dc835ba15ab15746f99cab881
 SHA256: 4a0c4d2c759610770f06f94e3e05a3547518e1161e277115314523f419751abe
 Section: Themes
 Description: for test
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.test
 SileoDepiction: https://speedmx.github.io/sileo/test/com.speedmx.test.json
 
 Package: com.speedmx.fcbarcamod
