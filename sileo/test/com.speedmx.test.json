@@ -81,7 +81,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\uTest",
+					"markdown": "\t\n\u2022Test",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
