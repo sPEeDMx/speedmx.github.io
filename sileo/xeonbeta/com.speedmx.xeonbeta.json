@@ -1,0 +1,127 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/images/banner.jpg",
+	"tintColor": "#000000",
+	"tabs": [
+       {
+          "tabname":"รายละเอียด",
+          "views":[
+             {
+                "title":"Supercharge status bar!",
+                "useBoldText":true,
+                "useBottomMargin":false,
+				"alignment":1,
+                "class":"DepictionSubheaderView"
+             },
+             {
+                "itemCornerRadius":6,
+                "itemSize":"{160, 346.4533333333333}",
+                "screenshots":[
+                   {
+                      "accessibilityText":"Screenshot",
+                      "url":"https://repo.packix.com/api/Packages/5c9eeb5342b245001b505bec/screenshots/5cc7afa2774b0b0018f37dd7/download?size=full",
+                      "fullSizeURL":"https://repo.packix.com/api/Packages/5c9eeb5342b245001b505bec/screenshots/5cc7afa2774b0b0018f37dd7/download?size=full"
+                   },
+                   {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.packix.com/api/Packages/5c9eeb5342b245001b505bec/screenshots/5cc7afa2774b0b0018f37ddc/download?size=full",
+                     "fullSizeURL":"https://repo.packix.com/api/Packages/5c9eeb5342b245001b505bec/screenshots/5cc7afa2774b0b0018f37ddc/download?size=full"
+                   },
+                   {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.packix.com/api/Packages/5c9eeb5342b245001b505bec/screenshots/5cc7afa2774b0b0018f37de1/download?size=full",
+                     "fullSizeURL":"https://repo.packix.com/api/Packages/5c9eeb5342b245001b505bec/screenshots/5cc7afa2774b0b0018f37de1/download?size=full"
+                   },
+				   {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.packix.com/api/Packages/5c9eeb5342b245001b505bec/screenshots/5cc7afa2774b0b0018f37de6/download?size=full",
+                     "fullSizeURL":"https://repo.packix.com/api/Packages/5c9eeb5342b245001b505bec/screenshots/5cc7afa2774b0b0018f37de6/download?size=full"
+                   }
+                ],
+                "class":"DepictionScreenshotsView"
+             },
+             {
+                "markdown":"This is the beta version of Xeon, which can early access to great WIP features. If you want to use stable and free version, get it from Nexus Repository!
+If you can't install, add https://rpetri.ch/repo
+Xeon is a Zeppelin alternative for iPad(iOS 12) and iPhone X-style status bar. You can use Zeppelin theme also.",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+             },
+             {
+                "class":"DepictionSeparatorView"
+             },
+             {
+                "title":"รายละเอียดแพ็คเกจ",
+                "class":"DepictionHeaderView"
+             },
+             {
+                "title":"เวอร์ชั่น",
+                "text":"1.2~beta3",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "title":"วันที่อัพเดท",
+                "text":"5 เมษา 62",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "title":"ผู้พัฒนา",
+                "text":"PeterDev",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "class":"DepictionSeparatorView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             },
+             {
+                "title":"ติดต่อผู้พัฒนา",
+                "action":"depiction-https://speedmx.github.io/sileo/support.json",
+                "class":"DepictionTableButtonView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             },
+             {
+                "URL":"https://speedmx.github.io/images/profile.png",
+                "width":50,
+                "height":50,
+                "alignment":1,
+                "cornerRadius":20,
+                "class":"DepictionImageView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             }
+          ],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "การเปลี่ยนแปลง",
+			"views": [
+				{
+					"title": "1.2~beta3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Cellular & Wi-Fi Bars theming!\t\n\u2022 Minor changes.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">5 เมษา 62</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
