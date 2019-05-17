@@ -113,7 +113,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fix little error",
+					"markdown": "\t\n\u2013 Fix little error",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -129,7 +129,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added Chimera,Sileo and more icon\t\n\u2022 Added & Fix IconOmatic,AE\t\n\u2022 Resize File",
+					"markdown": "\t\n\u2022 Added Chimera/Sileo and more icon \t\n\u2022 Added & Fix IconOmatic/AE \t\n\u2022 Resize File",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -145,7 +145,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added more icon\t\n\u2022 Added 4 IconOmatic,AE",
+					"markdown": "\t\n\u2022 Added more icon\t\n\u2022 Added 4 IconOmatic/AE",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
