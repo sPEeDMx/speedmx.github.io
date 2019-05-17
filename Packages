@@ -1,3 +1,23 @@
+Package: com.speedmx.afterhours12
+Version: 1.3
+Architecture: iphoneos-arm
+Name: AfterHours Mod12
+Maintainer: aEk <aek.speedmx@gmail.com>
+Author: Rob Grohman
+Depends: firmware (>= 9.0)
+Conflicts: com.cydia.lnweakky.afterhours12
+Filename: ./debs/com.speedmx.afterhours12_1.3_iphoneos-arm.deb
+Size: 39758012
+MD5sum: 134359563de80366f5530d12e52f75ef
+SHA1: 943d3175dae1a65d98071ab61c7085a28770293d
+SHA256: 811f7e4b714839774aeff46a486ebcaf62c605a67bfc5f7d645045a8fb44734c
+Section: Themes
+Description: I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.afterhours12
+Sileodepiction: https://speedmx.github.io/sileo/afterhours12/com.speedmx.afterhours12.json
+Homepage: http://speedmx.github.io
+Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.afterhours12/Icon.png
+
 Package: com.speedmx.fcbarcamod
 Version: 1.0
 Architecture: iphoneos-arm
