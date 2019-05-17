@@ -113,7 +113,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2013 Fix little error",
+					"markdown": "\t\n\u2022 Fix little error",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
