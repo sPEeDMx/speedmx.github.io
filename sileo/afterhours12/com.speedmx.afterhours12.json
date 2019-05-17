@@ -59,7 +59,7 @@
              },
              {
                 "title":"เวอร์ชั่น",
-                "text":"1.3",
+                "text":"1.3-1",
                 "class":"DepictionTableTextView"
              },
              {
@@ -107,13 +107,29 @@
 			"tabname": "การเปลี่ยนแปลง",
 			"views": [
 				{
+					"title": "1.3-1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fix little error",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">17 พฤษภา 62</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "1.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added Chimera/Sileo and more icon\t\n\u2022 Added & Fix IconOmatic/AE\t\n\u2022 Resize File",
+					"markdown": "\t\n\u2022 Added Chimera,Sileo and more icon\t\n\u2022 Added & Fix IconOmatic,AE\t\n\u2022 Resize File",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -129,7 +145,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added more icon\t\n\u2022 Added 4 IconOmatic/AE",
+					"markdown": "\t\n\u2022 Added more icon\t\n\u2022 Added 4 IconOmatic,AE",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
