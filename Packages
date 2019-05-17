@@ -1,16 +1,16 @@
 Package: com.speedmx.afterhours12
-Version: 1.3-1
+Version: 1.3-2
 Architecture: iphoneos-arm
 Name: AfterHours Mod12
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: Rob Grohman
 Depends: firmware (>= 9.0)
 Conflicts: com.cydia.lnweakky.afterhours12
-Filename: ./debs/com.speedmx.afterhours12_1.3-1_iphoneos-arm.deb
-Size: 39759124
-MD5sum: 401ac95572ab1abdb051a764e8400165
-SHA1: 4c1839bf7b8909e9960da82ec1c89054738a23bf
-SHA256: c4679c3b8cea928f2ab5205e9c699157bfcf859891ef083ac49c767dede4e776
+Filename: ./debs/com.speedmx.afterhours12_1.3-2_iphoneos-arm.deb
+Size: 39941108
+MD5sum: 162a55e3156cca65a38d7f4bc169a395
+SHA1: c25d485cccb0b40d3ac34f5bbad665591fcbf4d9
+SHA256: de7f22ccad1ba08ddc4fd23a633b4e1d7c3958455d1b527c9f2704e9eebadbb7
 Section: Themes
 Description: I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.afterhours12
@@ -26,7 +26,6 @@ Maintainer: aEk <aek.speedmx@gmail.com>
 Author: moondr1
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.speedmx.fcbarcamod_1.0_iphoneos-arm.deb
-Icon: file:///Library/Themes/fcbarca.theme/UIImages/icon.png
 Size: 8267172
 MD5sum: eee65186a4ece32a3e3165b7b3a17a00
 SHA1: d452a154d3ff3ada82ce57b2c9b70d71277d7c8b
@@ -36,6 +35,7 @@ Description: FC Barcelona theme for Fan iOS 11/12
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.fcbarcamod
 SileoDepiction: https://speedmx.github.io/sileo/fcbarcamod/com.speedmx.fcbarcamod.json
 Homepage: http://speedmx.github.io
+Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.fcbarcamod/Icon.png
 
 Package: com.speedmx.afterhours12
 Version: 1.2
@@ -46,7 +46,6 @@ Author: Rob Grohman
 Depends: firmware (>= 9.0)
 Conflicts: com.cydia.lnweakky.afterhours12
 Filename: ./debs/com.speedmx.afterhours12_1.2_iphoneos-arm.deb
-Icon: file:///Library/Themes/AH12.Main.theme/Bundles/com.apple.AppStore/AppIcon29x29@3x.png
 Size: 48445146
 MD5sum: 6e60c6e00e73533d0502a89735c9e57e
 SHA1: 2314ef30643db6a5b24968177ad49e15b4305543
@@ -56,3 +55,4 @@ Description: I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.afterhours12
 Sileodepiction: https://speedmx.github.io/sileo/afterhours12/com.speedmx.afterhours12.json
 Homepage: http://speedmx.github.io
+Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.afterhours12/Icon.png
