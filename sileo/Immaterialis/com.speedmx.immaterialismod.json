@@ -19,18 +19,18 @@
                 "screenshots":[
                    {
                       "accessibilityText":"Screenshot",
-                      "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im2.png",
-                      "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im2.png"
+                      "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im4.png",
+                      "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im4.png"
+                   },
+                   {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im2.png",
+                     "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im2.png"
                    },
                    {
                      "accessibilityText":"Screenshot",
                      "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im3.png",
                      "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im3.png"
-                   },
-                   {
-                     "accessibilityText":"Screenshot",
-                     "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im4.png",
-                     "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im4.png"
                    }
                 ],
                 "class":"DepictionScreenshotsView"
