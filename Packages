@@ -1,10 +1,29 @@
+Package: com.speedmx.immaterialismod
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Immaterialis Mod
+Maintainer: aEk <aek.speedmx@gmail.com>
+Author: Chintya Lia R.K
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.speedmx.immaterialismod_1.0_iphoneos-arm.deb
+Size: 16210924
+MD5sum: 4ef0d95c647f833cae9a671cb1feb8c5
+SHA1: 7863b3421407de587232e214aee281fbfb6e7d32
+SHA256: 623f109c40ec162fb5c4f760b44a2df0ab0b312e817f2b247c80ece75f1e2488
+Section: Themes
+Description: Immaterialis android theme port to iOS
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.immaterialismod
+Sileodepiction: https://speedmx.github.io/sileo/Immaterialis/com.speedmx.immaterialismod.json
+Homepage: http://speedmx.github.io
+Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.immaterialismod/Icon.png
+
 Package: com.speedmx.afterhours12
 Version: 1.3-2
 Architecture: iphoneos-arm
 Name: AfterHours Mod12
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: Rob Grohman
-Depends: firmware (>= 9.0)
+Depends: firmware (>= 7.0)
 Conflicts: com.cydia.lnweakky.afterhours12
 Filename: ./debs/com.speedmx.afterhours12_1.3-2_iphoneos-arm.deb
 Size: 39941108
@@ -24,7 +43,7 @@ Architecture: iphoneos-arm
 Name: FCbarca Mod
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: moondr1
-Depends: firmware (>= 9.0)
+Depends: firmware (>= 7.0)
 Filename: ./debs/com.speedmx.fcbarcamod_1.0_iphoneos-arm.deb
 Size: 8267172
 MD5sum: eee65186a4ece32a3e3165b7b3a17a00
@@ -43,7 +62,7 @@ Architecture: iphoneos-arm
 Name: AfterHours Mod12
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: Rob Grohman
-Depends: firmware (>= 9.0)
+Depends: firmware (>= 7.0)
 Conflicts: com.cydia.lnweakky.afterhours12
 Filename: ./debs/com.speedmx.afterhours12_1.2_iphoneos-arm.deb
 Size: 48445146
