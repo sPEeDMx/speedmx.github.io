@@ -49,12 +49,12 @@
              },
              {
                 "title":"เวอร์ชั่น",
-                "text":"1.0",
+                "text":"1.0-1",
                 "class":"DepictionTableTextView"
              },
              {
                 "title":"วันที่อัพเดท",
-                "text":"18 พฤษภา 62",
+                "text":"20 พฤษภา 62",
                 "class":"DepictionTableTextView"
              },
              {
@@ -96,6 +96,22 @@
 		{
 			"tabname": "การเปลี่ยนแปลง",
 			"views": [
+				{
+					"title": "1.0-1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added more icon \t\n\u2022 Fix some icon",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">20 พฤษภา 62</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0",
 					"useBoldText": true,

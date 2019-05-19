@@ -2,7 +2,7 @@
 	"name": "Immaterialis Mod",
 	"package": "com.speedmx.immaterialismod",
 	"author": "Chintya Lia R.K",
-	"version": "1.0",
+	"version": "1.0-1",
 	"dependency": "",
 	"minOSVersion": "7.0",
 	"maxOSVersion": "12.1.2",
@@ -10,8 +10,13 @@
 	"description": "<div>Immaterialis android theme port to iOS 7-12<br><br>Compatibility with <b>SnowBroad/Anemone</b><br><br>Thank Chintya Lia R.K for first port</div>",
   	"changelog": 
 	{
-	    "1.0": [
+	    "1.0": 
+		[
 	      "- Initial release"
+	    ],
+	    "1.0-1": 
+		[
+	      "- Added more icon<br>- Fix some icon"
 	    ]
   	},
 	"screenshots": 

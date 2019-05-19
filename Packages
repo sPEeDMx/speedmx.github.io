@@ -1,15 +1,15 @@
 Package: com.speedmx.immaterialismod
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Name: Immaterialis Mod
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: Chintya Lia R.K
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.speedmx.immaterialismod_1.0_iphoneos-arm.deb
-Size: 16210924
-MD5sum: 4ef0d95c647f833cae9a671cb1feb8c5
-SHA1: 7863b3421407de587232e214aee281fbfb6e7d32
-SHA256: 623f109c40ec162fb5c4f760b44a2df0ab0b312e817f2b247c80ece75f1e2488
+Filename: ./debs/com.speedmx.immaterialismod_1.0-1_iphoneos-arm.deb
+Size: 16297096
+MD5sum: 4c6708c7fe2592c2fdaaba566dc8fd87
+SHA1: f348d58ccdf2aa4de3400c97d99c370b455717d7
+SHA256: fc20e2b314804d4dd122479268acdeaf8723c67160f77f613e81e531d97b8b07
 Section: Themes
 Description: Immaterialis android theme port to iOS
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.immaterialismod
