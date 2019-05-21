@@ -15,7 +15,7 @@
              },
              {
                 "itemCornerRadius":6,
-                "itemSize":"{160, 270}",
+                "itemSize":"{80, 123.4533333333333}",
                 "screenshots":[
                    {
                       "accessibilityText":"Screenshot",
@@ -26,7 +26,7 @@
                 "class":"DepictionScreenshotsView"
              },
              {
-                "markdown":"Export from Virtual Flat Themes Enable with iThemer<br>Credit to Creator",
+                "markdown":"Enable with iThemer<br>Credit to Creator",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
              },
