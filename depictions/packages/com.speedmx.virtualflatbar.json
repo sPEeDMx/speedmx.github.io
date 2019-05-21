@@ -1,0 +1,23 @@
+{
+	"name": "Virtual Flat Status Bar",
+	"package": "com.speedmx.virtualflatbar",
+	"author": "aEk",
+	"version": "1.0",
+	"dependency": "",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "unsupported",
+	"description": "<div>Virtual Flat Status Bar Themes<br>Export from Virtual Flat Themes<br><br>Credit to Creator</div>",
+  	"changelog": 
+	{
+	    "1.0": 
+		[
+	      "- Initial Release"
+	    ]
+  	},
+	"screenshots": 
+	{
+		"ss.png": ""
+	},
+	"links": {}
+}

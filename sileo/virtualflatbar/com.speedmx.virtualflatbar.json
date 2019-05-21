@@ -1,13 +1,13 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.immaterialismod/im1.png",
-	"tintColor": "#424f52",
+	"headerImage": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/images/banner.jpg",
+	"tintColor": "#1f2e60",
 	"tabs": [
        {
           "tabname":"รายละเอียด",
           "views":[
              {
-                "title":"Immaterialis android theme port to iOS 7-12",
+                "title":"Virtual Flat Status Bar Themes<br>Export from Virtual Flat Themes",
                 "useBoldText":true,
                 "useBottomMargin":false,
 				"alignment":1,
@@ -19,24 +19,14 @@
                 "screenshots":[
                    {
                       "accessibilityText":"Screenshot",
-                      "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im4.png",
-                      "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im4.png"
-                   },
-                   {
-                     "accessibilityText":"Screenshot",
-                     "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im2.png",
-                     "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im2.png"
-                   },
-                   {
-                     "accessibilityText":"Screenshot",
-                     "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im3.png",
-                     "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.immaterialismod/im3.png"
+                      "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.fcbarcamod/FCB.png",
+                      "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.fcbarcamod/FCB.png"
                    }
                 ],
                 "class":"DepictionScreenshotsView"
              },
              {
-                "markdown":"Now this is a cool icon pack that is completely different from anything we have featured in recent memory. It’s called IMMATERIALIS and it’s brought to us by sikebo, the designer of Materialistic, another of our favorite icon packs.<br>With IMMATERIALIS (last time I’m capitalizing it all), you get some 1,000+ square icons with rounded corners that are all 180×180 and carry dark grey tones in some form. They are highlighted by familiar icon imagery, toned down pops of color, and a sort of matte finish. I think what I appreciate so much about them, is they aren’t just another free floating, “Material” set. Honestly, how many more of those do we need ?.<br><br>Compatibility with <B>SnowBroad, Anemone & iThemer</B><br><br>Thank: Chintya Lia R.K for first port<br>Credit: IMMATERIALIS ICON PACK (Pay) by sikebo from Google Play Store",
+                "markdown":"Enable with iThemer<br>Credit to Creator",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
              },
@@ -49,12 +39,12 @@
              },
              {
                 "title":"เวอร์ชั่น",
-                "text":"1.0-1",
+                "text":"1.0",
                 "class":"DepictionTableTextView"
              },
              {
                 "title":"วันที่อัพเดท",
-                "text":"20 พฤษภา 62",
+                "text":"21 พฤษภา 62",
                 "class":"DepictionTableTextView"
              },
              {
@@ -97,34 +87,18 @@
 			"tabname": "การเปลี่ยนแปลง",
 			"views": [
 				{
-					"title": "1.0-1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Added more icon \t\n\u2022 Fix some icon",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">20 พฤษภา 62</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
 					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial release",
+					"markdown": "\t\n\u2022 Initial Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">18 พฤษภา 62</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">21 พฤษภา 62</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

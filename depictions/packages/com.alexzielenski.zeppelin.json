@@ -7,7 +7,7 @@
 	"minOSVersion": "4.2",
 	"maxOSVersion": "12.1.2",
 	"otheriOS": "unsupported",
-	"description": "<div>Replaces carrier text with an image!</div>",
+	"description": "<div>Replaces carrier text with an image !</div>",
   	"changelog": 
 	{
 	    "2.1.1-1": 
