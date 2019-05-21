@@ -34,7 +34,7 @@ Conflicts: com.anemonetheming.anemone, winterboard, com.spark.snowboard, com.you
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.ithemer
 Sileodepiction: https://speedmx.github.io/sileo/ithemer/com.speedmx.ithemer.json
 Homepage: http://speedmx.github.io
-Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.ithemer/Icon.png
+Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.ithemer/icon.png
 
 Package: com.alexzielenski.zeppelin
 Version: 2.1.1-1
