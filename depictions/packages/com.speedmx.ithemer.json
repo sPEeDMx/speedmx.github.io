@@ -7,11 +7,7 @@
 	"minOSVersion": "9.0",
 	"maxOSVersion": "12.1.2",
 	"otheriOS": "unsupported",
-	"description": "<div><p><strong>iThemer</strong></p><br>This great engine is still in beta and being pre-relessed<br><p><strong>What do you get right now?</strong></p><br>This version of iThemer themes home screen icons using the IconBundles methods. Here is what works in this first release.<br><br>-Overlays (compatible with either AnemoneEffects or IconOmatic themes)<br>- Settings Icons<br>- UIImages (.car and .artwork files)<br>- UISounds<br>- FolderIcons (plain or by folder name) <br>- Info.plist option to hide folder grid<br>- FolderBackgrounds<br>- ClassicDock style docks (WIP)<br>- PageDots<br>- Badges<br>- UI-Activity Spinners<br>- Lydia/Sileo tweaks<br>- and many more.<br><br><p><strong>Compatibilty:</strong></p><br>This version has been tested on non-a12 devices running iOS 9-12 on unc0ver, Electra and Chimera. Does not work yet with Meridian.<br><br><p><strong>Feedback:</strong></p><br>Please note this is still a beta and bugs will most likely come up. Please feel free to use the bug report link in settings.<br><p><strong>Credits:</strong></p><br>Enjoy your experience and the freedom of having allmost all themed again. 
-
-Thanks for the support,
-
-DOD Graphics & BuufJuiced</div>",
+	"description": "<div><p><strong>iThemer</strong></p><br>This great engine is still in beta and being pre-relessed<br><p><strong>What do you get right now?</strong></p><br>This version of iThemer themes home screen icons using the IconBundles methods. Here is what works in this first release.<br><br>-Overlays (compatible with either AnemoneEffects or IconOmatic themes)<br>- Settings Icons<br>- UIImages (.car and .artwork files)<br>- UISounds<br>- FolderIcons (plain or by folder name) <br>- Info.plist option to hide folder grid<br>- FolderBackgrounds<br>- ClassicDock style docks (WIP)<br>- PageDots<br>- Badges<br>- UI-Activity Spinners<br>- Lydia/Sileo tweaks<br>- and many more.<br><br><p><strong>Compatibilty:</strong></p><br>This version has been tested on non-a12 devices running iOS 9-12 on unc0ver, Electra and Chimera. Does not work yet with Meridian.<br><br><p><strong>Feedback:</strong></p><br>Please note this is still a beta and bugs will most likely come up. Please feel free to use the bug report link in settings.<br><p><strong>Credits:</strong></p><br>Enjoy your experience and the freedom of having allmost all themed again. Thanks for the support, DOD Graphics & BuufJuiced</div>",
   	"changelog": 
 	{
 	    "1.0": [
