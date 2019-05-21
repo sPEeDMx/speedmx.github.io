@@ -1,3 +1,60 @@
+Package: com.speedmx.virtualflatbar
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Virtual Flat Status Bar
+Maintainer: aEk <aek.speedmx@gmail.com>
+Author: aEk
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.speedmx.virtualflatbar_1.0_iphoneos-arm.deb
+Size: 14872
+MD5sum: e58496a77281a18a4e86a383f61beef4
+SHA1: ae0fc5c29f68ea706e9d625463d6a0dfd4f3009d
+SHA256: 182d2722da2368c21a355ee30377a281004e2651318538ad5784d45ef52bb615
+Section: Themes
+Description: Virtual Flat Status Bar Themes
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.virtualflatbar
+Sileodepiction: https://speedmx.github.io/sileo/virtualflatbar/com.speedmx.virtualflatbar.json
+Homepage: http://speedmx.github.io
+
+Package: com.speedmx.ithemer
+Version: 0.0.1-21b
+Architecture: iphoneos-arm
+Name: iThemer
+Maintainer: DODGraphics <Dashea1981@gmail.com>
+Author: DODGraphics <Dashea1981@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.speedmx.ithemer_0.0.1-21b_iphoneos-arm.deb
+Size: 98312
+MD5sum: 50e8a55ee7c7bbb7c494e9f2e8d2c6c0
+SHA1: e1feae29cda507477cf75b9f976ec3dbc3a16f90
+SHA256: f77f92899946ff3bd75909f11170571b096e3d7c26a25a896c05468055e323c5
+Section: Tweaks
+Description: iThemer the new theme engine 
+Conflicts: com.anemonetheming.anemone, winterboard, com.spark.snowboard, com.yourepo.mamajaay.iconomatic, com.anemonetheming.anemone3, com.arab-cydia.ithemer, com.hackyouriphone.snowboardweaks, com.arab-cydia.snowboardtweaks, com.yourepo.iconomatic.iconomatic, com.idd.iconomatic, com.kiiimo.org.ithemer
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.ithemer
+Sileodepiction: https://speedmx.github.io/sileo/ithemer/com.speedmx.ithemer.json
+Homepage: http://speedmx.github.io
+Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.ithemer/Icon.png
+
+Package: com.alexzielenski.zeppelin
+Version: 2.1.1-1
+Architecture: iphoneos-arm
+Name: Zeppelin
+Maintainer: Alex Zielenski <support@alexzielenski.com>
+Author: Alex Zielenski <http://www.alexzielenski.com>
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.alexzielenski.zeppelin_2.1.1-1_iphoneos-arm.deb
+Size: 961890
+MD5sum: 2efd4f65eecd969fc7dca751a6beb072
+SHA1: 0907ac534585dd77db4fb0965a9758542915c3a5
+SHA256: e33f60859985ed1f70eb25ee99ea964bd31067cb54c6d4ceddbaa3ca001a533f
+Section: Tweaks
+Description: Replaces carrier text with an image !
+Depiction: https://speedmx.github.io/depictions/?p=com.alexzielenski.zeppelin
+Sileodepiction: https://speedmx.github.io/sileo/zeppelin/com.alexzielenski.zeppelin.json
+Homepage: http://www.alexzielenski.com
+Icon: http://i.imgur.com/tvLxnB5.png
+
 Package: com.speedmx.immaterialismod
 Version: 1.0-1
 Architecture: iphoneos-arm
