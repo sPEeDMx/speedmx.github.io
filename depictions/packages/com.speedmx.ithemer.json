@@ -1,0 +1,22 @@
+{
+	"name": "iThemer",
+	"package": "com.speedmx.ithemer",
+	"author": "Rob Grohman",
+	"version": "0.0.1-21b",
+	"dependency": "",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "unsupported",
+	"description": "<div><p><strong>iThemer</strong></p><p></p><p>This great engine is still in beta and being pre-relessed.<span class="Apple-converted-space"> </span></p><p></p><p></p><p><strong>What do you get right now?</strong></p><p>This version of iThemer themes home screen icons using the IconBundles <a href="https://twitter.com/2x"><span>@2x</span></a>,<a href="https://twitter.com/3x"><span>@3x</span></a> and -large methods. Here is what works in this first release.<span class="Apple-converted-space"> </span></p><p></p><ol><li>Overlays (compatible with either AnemoneEffects or IconOmatic themes)</li><li>Settings Icons</li><li>UIImages (.car and .artwork files)</li><li>UISounds</li><li>FolderIcons (plain or by folder name)<span class="Apple-converted-space"> </span></li><li>Info.plist option to hide folder grid</li><li>FolderBackgrounds</li><li>ClassicDock style docks (WIP)</li><li>PageDots</li><li>Badges</li><li>UI-Activity Spinners</li><li>Lydia/Sileo tweaks</li><li>and many more.</li></ol><p></p><p></p><p><strong>Compatibilty:</strong></p><p>This version has been tested on non-a12 devices running iOS 9-12 on unc0ver, Electra and Chimera. Does not work yet with Meridian.</p><p></p><p></p><p><strong>Conflicts:</strong></p><p>For now I have added conflicts with winterboard, anemone, snowboard and Iconomatic to the control so it will remove them as needed</p><p></p><p></p><p><strong>Feedback:</strong></p><p>Please note this is still a beta and bugs will most likely come up. Please feel free to use the bug report link in settings.</p><p></p><p></p><p></p><p><strong>Credits:</strong></p><p>Enjoy your experience and the freedom of having allmost all themed again.<span class="Apple-converted-space"> </span></p><p></p><p>Thanks for the support,</p><p></p><p>DOD Graphics &amp; BuufJuiced</p></div>",
+  	"changelog": 
+	{
+	    "1.0": [
+	      "- (11th of may) part 2 There is an issue on a to update badge in the repo. <br>It just won't show up.<br>Tried to fix it with this version. Same stuff but version name ends with b."
+	    ]
+  	},
+	"screenshots": 
+	{
+		"iT.png": ""
+	},
+	"links": {}
+}
