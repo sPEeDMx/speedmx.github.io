@@ -7,7 +7,7 @@
           "tabname":"รายละเอียด",
           "views":[
              {
-                "title":"Virtual Flat Status Bar Themes. Export from Virtual Flat Themes",
+                "title":"Virtual Flat Status Bar Themes.",
                 "useBoldText":true,
                 "useBottomMargin":false,
 				"alignment":1,
@@ -15,7 +15,7 @@
              },
              {
                 "itemCornerRadius":6,
-                "itemSize":"{160, 346.4533333333333}",
+                "itemSize":"{160, 270}",
                 "screenshots":[
                    {
                       "accessibilityText":"Screenshot",
@@ -26,7 +26,7 @@
                 "class":"DepictionScreenshotsView"
              },
              {
-                "markdown":"Enable with iThemer<br>Credit to Creator",
+                "markdown":"Export from Virtual Flat Themes Enable with iThemer<br>Credit to Creator",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
              },
