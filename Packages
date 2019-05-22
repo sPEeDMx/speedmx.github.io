@@ -42,10 +42,10 @@ Name: Zeppelin
 Maintainer: Alex Zielenski <support@alexzielenski.com>
 Author: Alex Zielenski <support@alexzielenski.com>
 Filename: ./debs/com.alexzielenski.zeppelin_2.1.1-1_iphoneos-arm.deb
-Size: 961736
-MD5sum: a91d9dfb8b2d198ef3dba92201e1c684
-SHA1: 98ca43528da3e11610b106deb92f0c27eb44c1df
-SHA256: b0693558cb0cdad230685dbf5e9215969bb5ea24c66802fa90d54a7f8386ed9a
+Size: 961748
+MD5sum: 52e92e1e15ce7a8eb48c738b837192f7
+SHA1: 08a4a72da688e432ac0d552fb287a2099209c6b0
+SHA256: f279e1c3f954e4b91136fe3c5b14b6de1cfb17d9f1ddeb26b0c3cb62932de9cd
 Section: Tweaks
 Description: Replaces carrier text with an image !
 Depiction: https://speedmx.github.io/depictions/?p=com.alexzielenski.zeppelin
