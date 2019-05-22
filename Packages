@@ -41,7 +41,7 @@ Architecture: iphoneos-arm
 Name: Zeppelin
 Maintainer: Alex Zielenski <support@alexzielenski.com>
 Author: Alex Zielenski <support@alexzielenski.com>
-Depends : firmware (>= 4.2), mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.alexzielenski.zeppelin_2.1.1-1_iphoneos-arm.deb
 Size: 961736
 MD5sum: a91d9dfb8b2d198ef3dba92201e1c684
