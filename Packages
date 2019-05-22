@@ -74,18 +74,17 @@ Homepage: http://speedmx.github.io
 Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.immaterialismod/Icon.png
 
 Package: com.speedmx.afterhours12
-Version: 1.3-2
+Version: 1.3-3
 Architecture: iphoneos-arm
 Name: AfterHours Mod12
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: Rob Grohman <aek.speedmx@gmail.com>
-Depends: firmware (>= 7.0)
 Conflicts: com.cydia.lnweakky.afterhours12
-Filename: ./debs/com.speedmx.afterhours12_1.3-2_iphoneos-arm.deb
-Size: 39941108
-MD5sum: 162a55e3156cca65a38d7f4bc169a395
-SHA1: c25d485cccb0b40d3ac34f5bbad665591fcbf4d9
-SHA256: de7f22ccad1ba08ddc4fd23a633b4e1d7c3958455d1b527c9f2704e9eebadbb7
+Filename: ./debs/com.speedmx.afterhours12_1.3-3_iphoneos-arm.deb
+Size: 51512862
+MD5sum: 6acf901778a71e56f729301e7893d826
+SHA1: 9eb4ad6dc1fdb2096efb29a5dcaba7c95fc1b045
+SHA256: 71a9d17312516a1060a1fc1703d68dd468eedf4b6ae07774aee539fe0d8eb91f
 Section: Themes
 Description: I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.afterhours12
@@ -110,23 +109,3 @@ Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.fcbarcamod
 SileoDepiction: https://speedmx.github.io/sileo/fcbarcamod/com.speedmx.fcbarcamod.json
 Homepage: http://speedmx.github.io
 Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.fcbarcamod/Icon.png
-
-Package: com.speedmx.afterhours12
-Version: 1.2
-Architecture: iphoneos-arm
-Name: AfterHours Mod12
-Maintainer: aEk <aek.speedmx@gmail.com>
-Author: Rob Grohman <aek.speedmx@gmail.com>
-Depends: firmware (>= 7.0)
-Conflicts: com.cydia.lnweakky.afterhours12
-Filename: ./debs/com.speedmx.afterhours12_1.2_iphoneos-arm.deb
-Size: 48445146
-MD5sum: 6e60c6e00e73533d0502a89735c9e57e
-SHA1: 2314ef30643db6a5b24968177ad49e15b4305543
-SHA256: ed7ffdeb9f85fb0ada00348ee5b434b607c4207d2b5ea672f5bc68b0c667fce1
-Section: Themes
-Description: I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12
-Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.afterhours12
-Sileodepiction: https://speedmx.github.io/sileo/afterhours12/com.speedmx.afterhours12.json
-Homepage: http://speedmx.github.io
-Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.afterhours12/Icon.png
