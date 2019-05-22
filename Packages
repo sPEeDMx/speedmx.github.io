@@ -41,11 +41,12 @@ Architecture: iphoneos-arm
 Name: Zeppelin
 Maintainer: Alex Zielenski <support@alexzielenski.com>
 Author: Alex Zielenski <support@alexzielenski.com>
+Depends : firmware (>= 4.2), mobilesubstrate, preferenceloader
 Filename: ./debs/com.alexzielenski.zeppelin_2.1.1-1_iphoneos-arm.deb
-Size: 961890
-MD5sum: 2efd4f65eecd969fc7dca751a6beb072
-SHA1: 0907ac534585dd77db4fb0965a9758542915c3a5
-SHA256: e33f60859985ed1f70eb25ee99ea964bd31067cb54c6d4ceddbaa3ca001a533f
+Size: 961736
+MD5sum: a91d9dfb8b2d198ef3dba92201e1c684
+SHA1: 98ca43528da3e11610b106deb92f0c27eb44c1df
+SHA256: b0693558cb0cdad230685dbf5e9215969bb5ea24c66802fa90d54a7f8386ed9a
 Section: Tweaks
 Description: Replaces carrier text with an image !
 Depiction: https://speedmx.github.io/depictions/?p=com.alexzielenski.zeppelin
