@@ -1,0 +1,23 @@
+{
+	"name": "Digital Status Bar",
+	"package": "com.speedmx.digitalbar",
+	"author": "aEk",
+	"version": "1.0",
+	"dependency": "",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "unsupported",
+	"description": "<div>Digital Numbers Status Bar Theme<br><br><br>Enable with iThemer or Snowbroad</div>",
+  	"changelog": 
+	{
+	    "1.0": 
+		[
+	      "- Initial Release"
+	    ]
+  	},
+	"screenshots": 
+	{
+		"ss.png": ""
+	},
+	"links": {}
+}
