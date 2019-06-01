@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/images/banner.jpg",
-	"tintColor": "#ffffff",
+	"tintColor": "#808080",
 	"tabs": [
        {
           "tabname":"รายละเอียด",
@@ -15,7 +15,7 @@
              },
              {
                 "itemCornerRadius":6,
-                "itemSize":"{80, 123.4533333333333}",
+                "itemSize":"{160, 346.4533333333333}",
                 "screenshots":[
                    {
                       "accessibilityText":"Screenshot",
