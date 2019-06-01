@@ -1,0 +1,23 @@
+{
+	"name": "Digital loading Wheel",
+	"package": "com.speedmx.digitalload",
+	"author": "aEk",
+	"version": "1.0",
+	"dependency": "",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "unsupported",
+	"description": "<div>Digital Numbers loading Wheel Theme<br><br><br>Enable with iThemer</div>",
+  	"changelog": 
+	{
+	    "1.0": 
+		[
+	      "- Initial Release"
+	    ]
+  	},
+	"screenshots": 
+	{
+		"ss.png": ""
+	},
+	"links": {}
+}

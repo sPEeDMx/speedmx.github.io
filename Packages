@@ -1,3 +1,54 @@
+Package: com.speedmx.digitalload
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Digital loading Wheel
+Maintainer: aEk <aek.speedmx@gmail.com>
+Author: aEk <aek.speedmx@gmail.com>
+Filename: ./debs/com.speedmx.digitalload_1.0_iphoneos-arm.deb
+Size: 126212
+MD5sum: 363ee67a6e068e939ac36a5e957a2063
+SHA1: b2f26f129ba115404a2ede6e56fa8467e609cbf6
+SHA256: 12f148781d471c1d7b166c3e2d27a3c7e04fc6b9c2dcf276e01cc1783d2cd0cd
+Section: Themes
+Description: Digital Numbers loading Wheel Theme
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.digitalload
+Sileodepiction: https://speedmx.github.io/sileo/digital/com.speedmx.digitalload.json
+Homepage: http://speedmx.github.io
+
+Package: com.speedmx.digitalbat
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Digital Battery for Alkaline
+Maintainer: aEk <aek.speedmx@gmail.com>
+Author: aEk <aek.speedmx@gmail.com>
+Filename: ./debs/com.speedmx.digitalbat_1.0_iphoneos-arm.deb
+Size: 174192
+MD5sum: f91a0758c13ade661b0484e3485b20d3
+SHA1: c8eed2bd5be835e5d4e7fac1a6a61f0ac22d9d82
+SHA256: 24b1fb7f99032fb768c7d1183e6bcd8368cc1a4268bce688ff57ef9fad06d3b6
+Section: Alkaline
+Description: Digital Numbers Battery for Alkaline
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.digitalbat
+Sileodepiction: https://speedmx.github.io/sileo/digital/com.speedmx.digitalbat.json
+Homepage: http://speedmx.github.io
+
+Package: com.speedmx.digitalbar
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Digital Status Bar
+Maintainer: aEk <aek.speedmx@gmail.com>
+Author: aEk <aek.speedmx@gmail.com>
+Filename: ./debs/com.speedmx.digitalbar_1.0_iphoneos-arm.deb
+Size: 35128
+MD5sum: 52f4d3d02db5d89088cf1a13fafc29a2
+SHA1: cca48fbc564ee93f3a062f9fdbc49d4d81958bb9
+SHA256: 362a89729a47f10178b5f4c5a5e5d17d59f51ac449d33ff0028528f9afff9a0a
+Section: Themes
+Description: Digital Numbers Status Bar Theme
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.digitalbar
+Sileodepiction: https://speedmx.github.io/sileo/digital/com.speedmx.digitalbar.json
+Homepage: http://speedmx.github.io
+
 Package: com.speedmx.virtualflatbar
 Version: 1.0
 Architecture: iphoneos-arm

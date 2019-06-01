@@ -1,0 +1,23 @@
+{
+	"name": "Digital Battery for Alkaline",
+	"package": "com.speedmx.digitalbat",
+	"author": "aEk",
+	"version": "1.0",
+	"dependency": "",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "unsupported",
+	"description": "<div>Digital Numbers Battery for Alkaline<br><br><br>Enable with Alkaline</div>",
+  	"changelog": 
+	{
+	    "1.0": 
+		[
+	      "- Initial Release"
+	    ]
+  	},
+	"screenshots": 
+	{
+		"ss.png": ""
+	},
+	"links": {}
+}
