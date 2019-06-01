@@ -99,6 +99,7 @@ SHA1: 98ca43528da3e11610b106deb92f0c27eb44c1df
 SHA256: b0693558cb0cdad230685dbf5e9215969bb5ea24c66802fa90d54a7f8386ed9a
 Section: Tweaks
 Description: Replaces carrier text with an image !
+Conflicts: com.arab-cydia.zeppelin
 Depiction: https://speedmx.github.io/depictions/?p=com.alexzielenski.zeppelin
 Sileodepiction: https://speedmx.github.io/sileo/zeppelin/com.alexzielenski.zeppelin.json
 Homepage: http://www.alexzielenski.com
