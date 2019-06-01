@@ -80,7 +80,7 @@ SHA1: e1feae29cda507477cf75b9f976ec3dbc3a16f90
 SHA256: f77f92899946ff3bd75909f11170571b096e3d7c26a25a896c05468055e323c5
 Section: Tweaks
 Description: iThemer the new theme engine 
-Conflicts: com.anemonetheming.anemone, winterboard, com.spark.snowboard, com.yourepo.mamajaay.iconomatic, com.anemonetheming.anemone3, com.arab-cydia.ithemer, com.hackyouriphone.snowboardweaks, com.arab-cydia.snowboardtweaks, com.yourepo.iconomatic.iconomatic, com.idd.iconomatic, com.kiiimo.org.ithemer
+Conflicts: com.anemonetheming.anemone, winterboard, com.spark.snowboard, com.yourepo.mamajaay.iconomatic, com.anemonetheming.anemone3, com.arab-cydia.ithemer, com.hackyouriphone.snowboardweaks, com.arab-cydia.snowboardtweaks, com.yourepo.iconomatic.iconomatic, com.idd.iconomatic, com.kiiimo.org.ithemer, net.dodtweaks.ithemer
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.ithemer
 Sileodepiction: https://speedmx.github.io/sileo/ithemer/com.speedmx.ithemer.json
 Homepage: http://speedmx.github.io
