@@ -106,17 +106,16 @@ Homepage: http://www.alexzielenski.com
 Icon: http://i.imgur.com/tvLxnB5.png
 
 Package: com.speedmx.immaterialismod
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Name: Immaterialis Mod
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: Chintya Lia R.K <aek.speedmx@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.speedmx.immaterialismod_1.0-1_iphoneos-arm.deb
-Size: 16297096
-MD5sum: 4c6708c7fe2592c2fdaaba566dc8fd87
-SHA1: f348d58ccdf2aa4de3400c97d99c370b455717d7
-SHA256: fc20e2b314804d4dd122479268acdeaf8723c67160f77f613e81e531d97b8b07
+Filename: ./debs/com.speedmx.immaterialismod_1.0-2_iphoneos-arm.deb
+Size: 16382024
+MD5sum: 4b6fe29114b2ede163129da9a8f07001
+SHA1: 1143fc15b2b4d9a8ac4921c667d1f49267d9f943
+SHA256: 095fffaaa0061f112aa257fa2fb2372aecc3756c20148fd7ef1b2bdfc8fbf89d
 Section: Themes
 Description: Immaterialis android theme port to iOS
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.immaterialismod

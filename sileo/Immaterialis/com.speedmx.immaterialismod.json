@@ -49,12 +49,12 @@
              },
              {
                 "title":"เวอร์ชั่น",
-                "text":"1.0-1",
+                "text":"1.0-2",
                 "class":"DepictionTableTextView"
              },
              {
                 "title":"วันที่อัพเดท",
-                "text":"20 พฤษภา 62",
+                "text":"2 มิถุนา 62",
                 "class":"DepictionTableTextView"
              },
              {
@@ -96,6 +96,22 @@
 		{
 			"tabname": "การเปลี่ยนแปลง",
 			"views": [
+				{
+					"title": "1.0-2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added StatusBar Theme",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">2 มิถุนา 62</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0-1",
 					"useBoldText": true,
