@@ -74,9 +74,15 @@
                 "class":"DepictionSpacerView"
              },
              {
+<<<<<<< HEAD
                 "URL":"https://speedmx.github.io/images/profile.png",
                 "width":50,
                 "height":50,
+=======
+                "url":"https://player.vimeo.com/video/181269135",
+                "width":160,
+                "height":320,
+>>>>>>> bc9a492855cd4b18bab725273232f7b23227a359
                 "alignment":1,
                 "cornerRadius":20,
                 "class":"DepictionImageView"
