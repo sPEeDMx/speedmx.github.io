@@ -1,0 +1,24 @@
+{
+	"name": "Twitter Like BT Loading",
+	"package": "com.speedmx.twitload",
+	"author": "aEk",
+	"version": "1.0",
+	"dependency": "",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "unsupported",
+	"description": "<div>Twitter Like BT Loading Wheel Theme<br><br><br>Enable with iThemer</div>",
+  	"changelog": 
+	{
+	    "1.0": 
+		[
+	      "- Initial Release"
+	    ]
+  	},
+	"screenshots": 
+	{
+		"1.png": "",
+		"2.png": ""
+	},
+	"links": {}
+}

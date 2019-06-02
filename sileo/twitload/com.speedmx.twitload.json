@@ -1,0 +1,115 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/images/banner.jpg",
+	"tintColor": "#FF1493",
+	"tabs": [
+       {
+          "tabname":"รายละเอียด",
+          "views":[
+             {
+                "title":"Twitter Like BT Loading Wheel Theme",
+                "useBoldText":true,
+                "useBottomMargin":false,
+				"alignment":1,
+                "class":"DepictionSubheaderView"
+             },
+             {
+                "itemCornerRadius":6,
+                "itemSize":"{160, 346.4533333333333}",
+                "screenshots":[
+                   {
+                      "accessibilityText":"Screenshot",
+                      "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.twitload/1.png",
+                      "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.twitload/1.png"
+                   },
+				    {
+                      "accessibilityText":"Screenshot",
+                      "url":"https://speedmx.github.io/depictions/screenshots/com.speedmx.twitload/2.png",
+                      "fullSizeURL":"https://speedmx.github.io/depictions/screenshots/com.speedmx.twitload/2.png"
+                   }
+                ],
+                "class":"DepictionScreenshotsView"
+             },
+             {
+                "markdown":"<p><iframe src="http://player.vimeo.com/video/181269135?title=0&amp;byline=0" frameborder="0" width="264" height="468"></iframe></p><br><br>Enable with iThemer",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+             },
+             {
+                "class":"DepictionSeparatorView"
+             },
+             {
+                "title":"รายละเอียดแพ็คเกจ",
+                "class":"DepictionHeaderView"
+             },
+             {
+                "title":"เวอร์ชั่น",
+                "text":"1.0",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "title":"วันที่อัพเดท",
+                "text":"2 มิถุนา 62",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "title":"ผู้พัฒนา",
+                "text":"aEk",
+                "class":"DepictionTableTextView"
+             },
+             {
+                "class":"DepictionSeparatorView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             },
+             {
+                "title":"ติดต่อผู้พัฒนา",
+                "action":"depiction-https://speedmx.github.io/sileo/support.json",
+                "class":"DepictionTableButtonView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             },
+             {
+                "URL":"https://speedmx.github.io/images/profile.png",
+                "width":50,
+                "height":50,
+                "alignment":1,
+                "cornerRadius":20,
+                "class":"DepictionImageView"
+             },
+             {
+                "spacing":12,
+                "class":"DepictionSpacerView"
+             }
+          ],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "การเปลี่ยนแปลง",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">2 มิถุนา 62</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

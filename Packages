@@ -1,3 +1,21 @@
+Package: com.speedmx.twitload
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Twitter Like BT Loading
+Maintainer: aEk <aek.speedmx@gmail.com>
+Author: aEk <aek.speedmx@gmail.com>
+Filename: ./debs/com.speedmx.twitload_1.0_iphoneos-arm.deb
+Size: 96092
+MD5sum: f00632054e51b7bde58f90608ca6dbee
+SHA1: c9c98cc0bfd30c1b4aaff03ba4b7dfed659d2a70
+SHA256: 2d11b2075336a34388fb662d5cb243d065f4f1035068409132d186d413c0f583
+Section: Themes
+Description: Twitter Like BT Loading Wheel Theme
+Conflicts: com.modmyi.twitterlikebtloading
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.twitload
+Sileodepiction: https://speedmx.github.io/sileo/twitload/com.speedmx.twitload.json
+Homepage: http://speedmx.github.io
+
 Package: com.speedmx.digitalload
 Version: 1.0
 Architecture: iphoneos-arm
@@ -80,7 +98,7 @@ SHA1: e1feae29cda507477cf75b9f976ec3dbc3a16f90
 SHA256: f77f92899946ff3bd75909f11170571b096e3d7c26a25a896c05468055e323c5
 Section: Tweaks
 Description: iThemer the new theme engine 
-Conflicts: com.anemonetheming.anemone, winterboard, com.spark.snowboard, com.yourepo.mamajaay.iconomatic, com.anemonetheming.anemone3, com.arab-cydia.ithemer, com.hackyouriphone.snowboardweaks, com.arab-cydia.snowboardtweaks, com.yourepo.iconomatic.iconomatic, com.idd.iconomatic, com.kiiimo.org.ithemer, net.dodtweaks.ithemer
+Conflicts: com.anemonetheming.anemone, winterboard, com.spark.snowboard, com.yourepo.mamajaay.iconomatic, com.anemonetheming.anemone3, com.arab-cydia.ithemer, com.hackyouriphone.snowboardweaks, com.arab-cydia.snowboardtweaks, com.yourepo.iconomatic.iconomatic, com.idd.iconomatic, com.kiiimo.org.ithemer
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.ithemer
 Sileodepiction: https://speedmx.github.io/sileo/ithemer/com.speedmx.ithemer.json
 Homepage: http://speedmx.github.io
