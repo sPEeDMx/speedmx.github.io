@@ -4,6 +4,7 @@ Architecture: iphoneos-arm
 Name: Twitter Like BT Loading
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: aEk <aek.speedmx@gmail.com>
+Conflicts: com.modmyi.twitterlikebtloading 
 Filename: ./debs/com.speedmx.twitload_1.0_iphoneos-arm.deb
 Size: 96092
 MD5sum: f00632054e51b7bde58f90608ca6dbee
@@ -11,7 +12,6 @@ SHA1: c9c98cc0bfd30c1b4aaff03ba4b7dfed659d2a70
 SHA256: 2d11b2075336a34388fb662d5cb243d065f4f1035068409132d186d413c0f583
 Section: Themes
 Description: Twitter Like BT Loading Wheel Theme
-Conflicts: com.modmyi.twitterlikebtloading
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.twitload
 Sileodepiction: https://speedmx.github.io/sileo/twitload/com.speedmx.twitload.json
 Homepage: http://speedmx.github.io
