@@ -43,7 +43,7 @@ Size: 174192
 MD5sum: f91a0758c13ade661b0484e3485b20d3
 SHA1: c8eed2bd5be835e5d4e7fac1a6a61f0ac22d9d82
 SHA256: 24b1fb7f99032fb768c7d1183e6bcd8368cc1a4268bce688ff57ef9fad06d3b6
-Section: Alkaline
+Section: Addons
 Description: Digital Numbers Battery for Alkaline
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.digitalbat
 Sileodepiction: https://speedmx.github.io/sileo/digital/com.speedmx.digitalbat.json
@@ -141,17 +141,17 @@ Homepage: http://speedmx.github.io
 Icon: https://raw.githubusercontent.com/sPEeDMx/speedmx.github.io/master/depictions/screenshots/com.speedmx.immaterialismod/Icon.png
 
 Package: com.speedmx.afterhours12
-Version: 1.3-3
+Version: 1.4
 Architecture: iphoneos-arm
 Name: AfterHours Mod12
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: Rob Grohman <aek.speedmx@gmail.com>
 Conflicts: com.cydia.lnweakky.afterhours12
-Filename: ./debs/com.speedmx.afterhours12_1.3-3_iphoneos-arm.deb
-Size: 51512862
-MD5sum: 6acf901778a71e56f729301e7893d826
-SHA1: 9eb4ad6dc1fdb2096efb29a5dcaba7c95fc1b045
-SHA256: 71a9d17312516a1060a1fc1703d68dd468eedf4b6ae07774aee539fe0d8eb91f
+Filename: ./debs/com.speedmx.afterhours12_1.4_iphoneos-arm.deb
+Size: 40245956
+MD5sum: 7a51568684d808e79a0c0474cfaf75d9
+SHA1: 006f09863a9507feb9c5f1bc64e079699060dc93
+SHA256: 6ca066f47f37a62bef2121e722daa079c710e64a8269708895536fc8de5e7912
 Section: Themes
 Description: I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.afterhours12

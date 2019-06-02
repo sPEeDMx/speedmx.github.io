@@ -46,7 +46,7 @@
                 "class":"DepictionScreenshotsView"
              },
              {
-                "markdown":"AfterHours Mod12 came back to life with an almighty bang and boy I am so glad this theme has been resurrected from the “Dark Side” as at the moment the trend for themes is flat with pastel colours but AfterHours gives us all something different to rock on our iPhones. The thing I like about AfterHours Mod12 is that it’s dark but it still gives you very light splashes of colour without losing the dark appeal and not to make it too dark to the point where everything looks the same.<br><br>Compatibility with <B>SnowBroad, Anemone & iThemer</B><br>Thank for Original icon by @Rob Grohman",
+                "markdown":"AfterHours Mod12 came back to life with an almighty bang and boy I am so glad this theme has been resurrected from the “Dark Side” as at the moment the trend for themes is flat with pastel colours but AfterHours gives us all something different to rock on our iPhones. The thing I like about AfterHours Mod12 is that it’s dark but it still gives you very light splashes of colour without losing the dark appeal and not to make it too dark to the point where everything looks the same.<br><br>Include : <br> - 1000 icon<br> - 5 badge<br> - 7 Dock<br> - 2 FolderUI<br> - 6 Icon Effect<br> - 2 Status Bar<br> - 2 ALT Icon<br><br>Recomend use with :<b>iThemer</b><br>Thank for Original icon by @Rob Grohman",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
              },
@@ -59,12 +59,12 @@
              },
              {
                 "title":"เวอร์ชั่น",
-                "text":"1.3-3",
+                "text":"1.4",
                 "class":"DepictionTableTextView"
              },
              {
                 "title":"วันที่อัพเดท",
-                "text":"22 พฤษภา 62",
+                "text":"2 มิถุนา 62",
                 "class":"DepictionTableTextView"
              },
              {
@@ -106,6 +106,22 @@
 		{
 			"tabname": "การเปลี่ยนแปลง",
 			"views": [
+				{
+					"title": "1.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added Dock , Badge & Status Bar",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">2 มิถุนา 62</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.3-3",
 					"useBoldText": true,
