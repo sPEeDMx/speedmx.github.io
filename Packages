@@ -4,7 +4,6 @@ Architecture: iphoneos-arm
 Name: Twitter Like BT Loading
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: aEk <aek.speedmx@gmail.com>
-Conflicts: com.modmyi.twitterlikebtloading 
 Filename: ./debs/com.speedmx.twitload_1.0_iphoneos-arm.deb
 Size: 96092
 MD5sum: f00632054e51b7bde58f90608ca6dbee
