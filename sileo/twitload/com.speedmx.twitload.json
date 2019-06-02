@@ -74,9 +74,9 @@
                 "class":"DepictionSpacerView"
              },
              {
-                "URL":"<iframe title="vimeo-player" src="https://player.vimeo.com/video/181269135" width="640" height="1135" frameborder="0" allowfullscreen></iframe>",
-                "width":640,
-                "height":1135,
+                "URL":"https://player.vimeo.com/video/181269135",
+                "width":160,
+                "height":320,
                 "alignment":1,
                 "cornerRadius":20,
                 "class":"DepictionVideoView"
